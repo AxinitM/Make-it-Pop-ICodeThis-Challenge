@@ -3,14 +3,12 @@
 This is a solution to a challenge "Make it Pop" from the website [ICodeThis](https://icodethis.com/modes/functional/571/submissions/341524).
 
 ## Table of contents
-- [Make it Pop / ICodeThis Challenge](#make-it-pop--icodethis-challenge)
-  - [Table of contents](#table-of-contents)
-  - [Task](#task)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [How it works](#how-it-works)
-  - [Built with](#built-with)
-  - [Author](#author)
+- [Task](#task)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [How it works](#how-it-works)
+- [Built with](#built-with)
+- [Author](#author)
 
 ## Task
 
@@ -28,7 +26,7 @@ Implement the following functionalities:
 
 ## Links
 
-[Make it Pop Page](https://your-solution-url.com)
+[Make it Pop Page](https://axinitm.github.io/Make-it-Pop-ICodeThis-Challenge/)
 
 ## How it works
 This navigation block visually highlights the active menu item. When a user clicks on any link in the site header, it becomes active — changing its color and displaying an underline. At the same time, the active state is automatically removed from all other links. This behavior provides intuitive navigation and a clear indication of the current section.
